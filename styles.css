@@ -99,6 +99,7 @@ body {
     padding: 3em 2em 0em 2em;
     background-color:var(--bg-footer);
     border-radius: 1.5em;
+    transition: padding .3s;
 }
 
 .modulename {
@@ -108,7 +109,25 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    transition: opacity .3s ease-in-out;
+    transition-delay: .5s;
+    transition: padding .3s ease-in-out;
 }
+
+/*
+.module:hover {
+    padding: 3em 7em 20em 7em;
+    background-color: var(--bg-secondary);
+    cursor: pointer;
+    
+}
+
+.module:hover .modulename{
+    opacity: 0;
+    padding: 2em 5.5em 1em 5.5em;
+    
+}
+*/
 
 .red {
     background-color: var(--red);
