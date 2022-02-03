@@ -1,0 +1,180 @@
+<svg id="Second_Page" data-name="Second Page" xmlns="http://www.w3.org/2000/svg" width="1269.636" height="700.146" viewBox="0 0 1269.636 700.146">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #18191c;
+      }
+
+      .cls-2 {
+        fill: #353535;
+      }
+
+      .cls-3 {
+        fill: #707070;
+      }
+
+      .cls-4 {
+        fill: #5b5b5b;
+        font-size: 29px;
+        font-family: FuturaPT-Bold, Futura PT;
+        font-weight: 700;
+      }
+
+      .cls-5 {
+        fill: #d8d8d8;
+        font-size: 43px;
+      }
+
+      .cls-5, .cls-7 {
+        font-family: Unibody8Pro-Regular, 'Unibody \38  Pro';
+      }
+
+      .cls-10, .cls-11, .cls-12, .cls-6, .cls-8, .cls-9 {
+        fill: none;
+      }
+
+      .cls-10, .cls-6 {
+        stroke: #e8e8e8;
+      }
+
+      .cls-11, .cls-12, .cls-6, .cls-8, .cls-9 {
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        fill: #fff;
+        font-size: 25px;
+      }
+
+      .cls-8, .cls-9 {
+        stroke: #ff781d;
+      }
+
+      .cls-11, .cls-12, .cls-8, .cls-9 {
+        stroke-linecap: round;
+        stroke-width: 3px;
+        stroke-dasharray: 12;
+      }
+
+      .cls-11, .cls-8 {
+        stroke-linejoin: round;
+      }
+
+      .cls-11, .cls-12 {
+        stroke: #3a8def;
+      }
+    </style>
+  </defs>
+  <g id="Content" transform="translate(-6.5 91.386)">
+    <g id="ESP">
+      <rect id="Rectangle_72" data-name="Rectangle 72" class="cls-1" width="384.547" height="583.403" rx="15.605" transform="translate(6.5 5.877)"/>
+      <rect id="Rectangle_73" data-name="Rectangle 73" class="cls-2" width="138.373" height="138.373" transform="translate(198.773 199.734) rotate(45)"/>
+      <g id="Group_2" data-name="Group 2" transform="translate(62.005 35.261)">
+        <rect id="Rectangle_74" data-name="Rectangle 74" class="cls-2" width="273.537" height="34.192" rx="3.22"/>
+        <g id="Group_1" data-name="Group 1" transform="translate(8.456 4.967)">
+          <rect id="Rectangle_75" data-name="Rectangle 75" class="cls-3" width="6.967" height="6.967"/>
+          <rect id="Rectangle_76" data-name="Rectangle 76" class="cls-3" width="6.967" height="6.967" transform="translate(0 16.886)"/>
+          <rect id="Rectangle_77" data-name="Rectangle 77" class="cls-3" width="6.967" height="6.967" transform="translate(16.177)"/>
+          <rect id="Rectangle_78" data-name="Rectangle 78" class="cls-3" width="6.967" height="6.967" transform="translate(16.177 16.886)"/>
+          <rect id="Rectangle_79" data-name="Rectangle 79" class="cls-3" width="6.967" height="6.967" transform="translate(33.653)"/>
+          <rect id="Rectangle_80" data-name="Rectangle 80" class="cls-3" width="6.967" height="6.967" transform="translate(33.653 16.886)"/>
+          <rect id="Rectangle_81" data-name="Rectangle 81" class="cls-3" width="6.967" height="6.967" transform="translate(49.83)"/>
+          <rect id="Rectangle_82" data-name="Rectangle 82" class="cls-3" width="6.967" height="6.967" transform="translate(49.83 16.886)"/>
+          <rect id="Rectangle_83" data-name="Rectangle 83" class="cls-3" width="6.967" height="6.967" transform="translate(67.07)"/>
+          <rect id="Rectangle_84" data-name="Rectangle 84" class="cls-3" width="6.967" height="6.967" transform="translate(67.07 16.886)"/>
+          <rect id="Rectangle_85" data-name="Rectangle 85" class="cls-3" width="6.967" height="6.967" transform="translate(83.247)"/>
+          <rect id="Rectangle_86" data-name="Rectangle 86" class="cls-3" width="6.967" height="6.967" transform="translate(83.247 16.886)"/>
+          <rect id="Rectangle_87" data-name="Rectangle 87" class="cls-3" width="6.967" height="6.967" transform="translate(100.724)"/>
+          <rect id="Rectangle_88" data-name="Rectangle 88" class="cls-3" width="6.967" height="6.967" transform="translate(100.724 16.886)"/>
+          <rect id="Rectangle_89" data-name="Rectangle 89" class="cls-3" width="6.967" height="6.967" transform="translate(116.901)"/>
+          <rect id="Rectangle_90" data-name="Rectangle 90" class="cls-3" width="6.967" height="6.967" transform="translate(116.901 16.886)"/>
+          <rect id="Rectangle_91" data-name="Rectangle 91" class="cls-3" width="6.967" height="6.967" transform="translate(132.724)"/>
+          <rect id="Rectangle_92" data-name="Rectangle 92" class="cls-3" width="6.967" height="6.967" transform="translate(132.724 16.886)"/>
+          <rect id="Rectangle_93" data-name="Rectangle 93" class="cls-3" width="6.967" height="6.967" transform="translate(148.901)"/>
+          <rect id="Rectangle_94" data-name="Rectangle 94" class="cls-3" width="6.967" height="6.967" transform="translate(148.901 16.886)"/>
+          <rect id="Rectangle_95" data-name="Rectangle 95" class="cls-3" width="6.967" height="6.967" transform="translate(166.377)"/>
+          <rect id="Rectangle_96" data-name="Rectangle 96" class="cls-3" width="6.967" height="6.967" transform="translate(166.377 16.886)"/>
+          <rect id="Rectangle_97" data-name="Rectangle 97" class="cls-3" width="6.967" height="6.967" transform="translate(182.554)"/>
+          <rect id="Rectangle_98" data-name="Rectangle 98" class="cls-3" width="6.967" height="6.967" transform="translate(182.554 16.886)"/>
+          <rect id="Rectangle_99" data-name="Rectangle 99" class="cls-3" width="6.967" height="6.967" transform="translate(199.085)"/>
+          <rect id="Rectangle_100" data-name="Rectangle 100" class="cls-3" width="6.967" height="6.967" transform="translate(199.085 16.886)"/>
+          <rect id="Rectangle_101" data-name="Rectangle 101" class="cls-3" width="6.967" height="6.967" transform="translate(215.263)"/>
+          <rect id="Rectangle_102" data-name="Rectangle 102" class="cls-3" width="6.967" height="6.967" transform="translate(215.263 16.886)"/>
+          <rect id="Rectangle_103" data-name="Rectangle 103" class="cls-3" width="6.967" height="6.967" transform="translate(232.739)"/>
+          <rect id="Rectangle_104" data-name="Rectangle 104" class="cls-3" width="6.967" height="6.967" transform="translate(232.739 16.886)"/>
+          <rect id="Rectangle_105" data-name="Rectangle 105" class="cls-3" width="6.967" height="6.967" transform="translate(248.916)"/>
+          <rect id="Rectangle_106" data-name="Rectangle 106" class="cls-3" width="6.967" height="6.967" transform="translate(248.916 16.886)"/>
+        </g>
+      </g>
+      <g id="Group_4" data-name="Group 4" transform="translate(62.005 512.664)">
+        <rect id="Rectangle_107" data-name="Rectangle 107" class="cls-2" width="273.537" height="34.192" rx="3.22"/>
+        <g id="Group_3" data-name="Group 3" transform="translate(8.456 4.967)">
+          <rect id="Rectangle_108" data-name="Rectangle 108" class="cls-3" width="6.967" height="6.967"/>
+          <rect id="Rectangle_109" data-name="Rectangle 109" class="cls-3" width="6.967" height="6.967" transform="translate(0 16.886)"/>
+          <rect id="Rectangle_110" data-name="Rectangle 110" class="cls-3" width="6.967" height="6.967" transform="translate(16.177)"/>
+          <rect id="Rectangle_111" data-name="Rectangle 111" class="cls-3" width="6.967" height="6.967" transform="translate(16.177 16.886)"/>
+          <rect id="Rectangle_112" data-name="Rectangle 112" class="cls-3" width="6.967" height="6.967" transform="translate(33.653)"/>
+          <rect id="Rectangle_113" data-name="Rectangle 113" class="cls-3" width="6.967" height="6.967" transform="translate(33.653 16.886)"/>
+          <rect id="Rectangle_114" data-name="Rectangle 114" class="cls-3" width="6.967" height="6.967" transform="translate(49.83)"/>
+          <rect id="Rectangle_115" data-name="Rectangle 115" class="cls-3" width="6.967" height="6.967" transform="translate(49.83 16.886)"/>
+          <rect id="Rectangle_116" data-name="Rectangle 116" class="cls-3" width="6.967" height="6.967" transform="translate(67.07)"/>
+          <rect id="Rectangle_117" data-name="Rectangle 117" class="cls-3" width="6.967" height="6.967" transform="translate(67.07 16.886)"/>
+          <rect id="Rectangle_118" data-name="Rectangle 118" class="cls-3" width="6.967" height="6.967" transform="translate(83.247)"/>
+          <rect id="Rectangle_119" data-name="Rectangle 119" class="cls-3" width="6.967" height="6.967" transform="translate(83.247 16.886)"/>
+          <rect id="Rectangle_120" data-name="Rectangle 120" class="cls-3" width="6.967" height="6.967" transform="translate(100.724)"/>
+          <rect id="Rectangle_121" data-name="Rectangle 121" class="cls-3" width="6.967" height="6.967" transform="translate(100.724 16.886)"/>
+          <rect id="Rectangle_122" data-name="Rectangle 122" class="cls-3" width="6.967" height="6.967" transform="translate(116.901)"/>
+          <rect id="Rectangle_123" data-name="Rectangle 123" class="cls-3" width="6.967" height="6.967" transform="translate(116.901 16.886)"/>
+          <rect id="Rectangle_124" data-name="Rectangle 124" class="cls-3" width="6.967" height="6.967" transform="translate(132.724)"/>
+          <rect id="Rectangle_125" data-name="Rectangle 125" class="cls-3" width="6.967" height="6.967" transform="translate(132.724 16.886)"/>
+          <rect id="Rectangle_126" data-name="Rectangle 126" class="cls-3" width="6.967" height="6.967" transform="translate(148.901)"/>
+          <rect id="Rectangle_127" data-name="Rectangle 127" class="cls-3" width="6.967" height="6.967" transform="translate(148.901 16.886)"/>
+          <rect id="Rectangle_128" data-name="Rectangle 128" class="cls-3" width="6.967" height="6.967" transform="translate(166.377)"/>
+          <rect id="Rectangle_129" data-name="Rectangle 129" class="cls-3" width="6.967" height="6.967" transform="translate(166.377 16.886)"/>
+          <rect id="Rectangle_130" data-name="Rectangle 130" class="cls-3" width="6.967" height="6.967" transform="translate(182.554)"/>
+          <rect id="Rectangle_131" data-name="Rectangle 131" class="cls-3" width="6.967" height="6.967" transform="translate(182.554 16.886)"/>
+          <rect id="Rectangle_132" data-name="Rectangle 132" class="cls-3" width="6.967" height="6.967" transform="translate(199.085)"/>
+          <rect id="Rectangle_133" data-name="Rectangle 133" class="cls-3" width="6.967" height="6.967" transform="translate(199.085 16.886)"/>
+          <rect id="Rectangle_134" data-name="Rectangle 134" class="cls-3" width="6.967" height="6.967" transform="translate(215.263)"/>
+          <rect id="Rectangle_135" data-name="Rectangle 135" class="cls-3" width="6.967" height="6.967" transform="translate(215.263 16.886)"/>
+          <rect id="Rectangle_136" data-name="Rectangle 136" class="cls-3" width="6.967" height="6.967" transform="translate(232.739)"/>
+          <rect id="Rectangle_137" data-name="Rectangle 137" class="cls-3" width="6.967" height="6.967" transform="translate(232.739 16.886)"/>
+          <rect id="Rectangle_138" data-name="Rectangle 138" class="cls-3" width="6.967" height="6.967" transform="translate(248.916)"/>
+          <rect id="Rectangle_139" data-name="Rectangle 139" class="cls-3" width="6.967" height="6.967" transform="translate(248.916 16.886)"/>
+        </g>
+      </g>
+      <text id="ESP32" class="cls-4" transform="translate(125.527 310.182) rotate(-45)"><tspan x="0" y="0">ESP32</tspan></text>
+    </g>
+  </g>
+  <g id="Info" transform="translate(35.44 81)">
+    <g id="Main_Info" data-name="Main Info">
+      <g id="Power" transform="translate(587.196 446.675)">
+        <g id="Info-2" data-name="Info">
+          <text id="Power_SPI_Flash" data-name="Power &amp; SPI Flash" class="cls-5" transform="translate(0 34.472)"><tspan x="0" y="0">Power &amp; SPI Flash</tspan></text>
+          <line id="Line_4" data-name="Line 4" class="cls-6" x2="536.86" transform="translate(0 49.16)"/>
+          <text id="_-_Unregulated_3.3v_input_-_SPI_Flash_pins_with_autoflash_mode_-_2nd_SPI_and_UART" data-name="- Unregulated 3.3v input
+- SPI Flash pins with autoflash mode
+- 2nd SPI and UART" class="cls-7" transform="translate(0 87.472)"><tspan x="0" y="0">- Unregulated 3.3v input</tspan><tspan x="0" y="36">- SPI Flash pins with autoflash mode</tspan><tspan x="0" y="72">- 2nd SPI and UART</tspan></text>
+        </g>
+        <g id="Vector">
+          <rect id="Rectangle_156" data-name="Rectangle 156" class="cls-8" width="290.667" height="50.385" rx="6.12" transform="translate(-575.196 68.497)"/>
+          <line id="Line_8" data-name="Line 8" class="cls-9" y1="0.291" x2="237.66" transform="translate(-267.978 92.399)"/>
+        </g>
+      </g>
+      <g id="Data" transform="translate(587.196 -69)">
+        <g id="Info-3" data-name="Info">
+          <text id="Data_Lines_-_Busses" data-name="Data Lines - Busses" class="cls-5" transform="translate(0 42)"><tspan x="0" y="0">Data Lines - Busses</tspan></text>
+          <path id="Path_1" data-name="Path 1" class="cls-10" d="M0,0H588.013" transform="translate(0.001 58.875)"/>
+          <text id="_-_All_GPIO_pins_-_Both_SPI_UART_interfaces_-_Both_I2C_and_I2S_interfaces_-_Both_DAC_pins" data-name="- All GPIO pins
+- Both SPI &amp; UART interfaces
+- Both I2C and I2S interfaces 
+- Both DAC pins" class="cls-7" transform="translate(0 101.151)"><tspan x="0" y="0">- All GPIO pins</tspan><tspan x="0" y="36">- Both SPI &amp; UART interfaces</tspan><tspan x="0" y="72">- Both I2C and I2S interfaces </tspan><tspan x="0" y="108">- Both DAC pins</tspan></text>
+        </g>
+        <g id="Vector-2" data-name="Vector">
+          <rect id="Rectangle_141" data-name="Rectangle 141" class="cls-11" width="290.667" height="50.385" rx="6.12" transform="translate(-575.196 106.171)"/>
+          <line id="Line_6" data-name="Line 6" class="cls-12" y1="0.291" x2="237.66" transform="translate(-267.978 130.073)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

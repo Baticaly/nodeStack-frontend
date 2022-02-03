@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="155.13" height="195.519" viewBox="0 0 155.13 195.519">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #595959;
+      }
+
+      .cls-3 {
+        fill: #212121;
+      }
+
+      .cls-4 {
+        fill: #151515;
+      }
+
+      .cls-5 {
+        fill: #8c8c8c;
+      }
+
+      .cls-6 {
+        fill: #b2b2b2;
+      }
+    </style>
+  </defs>
+  <g id="Stack_Programmer" data-name="Stack Programmer" transform="translate(-389.619 -563.833)">
+    <g id="Group_28" data-name="Group 28" transform="translate(389.619 563.833)">
+      <g id="Group_27" data-name="Group 27">
+        <path id="Path_38" data-name="Path 38" class="cls-1" d="M991.593,880.126H911.034a4.158,4.158,0,0,0-3.8,3.44l-1.363,7.487a2.694,2.694,0,0,0,2.545,3.442h80.559a4.156,4.156,0,0,0,3.792-3.442l1.363-7.487A2.69,2.69,0,0,0,991.593,880.126Z" transform="translate(-858.489 -867.606)"/>
+        <path id="Path_39" data-name="Path 39" class="cls-2" d="M1033.143,873.833H921.116a6.4,6.4,0,0,0-5.845,5.3l-33.149,182.154c-.533,2.931,1.22,5.3,3.915,5.3h112.03a6.4,6.4,0,0,0,5.845-5.3l33.149-182.154C1037.594,876.2,1035.839,873.833,1033.143,873.833Z" transform="translate(-882.026 -873.833)"/>
+        <path id="Path_40" data-name="Path 40" class="cls-3" d="M994.134,883.566l-1.363,7.487a4.156,4.156,0,0,1-3.792,3.442H908.419a2.694,2.694,0,0,1-2.545-3.442l1.363-7.487a4.158,4.158,0,0,1,3.8-3.44h80.559A2.69,2.69,0,0,1,994.134,883.566Z" transform="translate(-858.489 -867.606)"/>
+      </g>
+      <path id="Path_41" data-name="Path 41" class="cls-4" d="M977.034,935.075H903.688a3.9,3.9,0,0,1-3.834-4.606l3.3-17.94a3.9,3.9,0,0,1,3.834-3.191h73.345a3.9,3.9,0,0,1,3.834,4.6l-3.3,17.939A3.9,3.9,0,0,1,977.034,935.075Z" transform="translate(-864.449 -838.699)"/>
+      <path id="Path_42" data-name="Path 42" class="cls-5" d="M966.148,994.53H893.511l8.774-45.647a10.506,10.506,0,0,1,10.318-8.521h51.242a10.505,10.505,0,0,1,10.318,12.488Z" transform="translate(-870.661 -808.002)"/>
+      <rect id="Rectangle_148" data-name="Rectangle 148" class="cls-6" width="72.638" height="17.978" rx="8.989" transform="translate(22.849 177.541)"/>
+    </g>
+  </g>
+</svg>
