@@ -20,7 +20,7 @@ body {
 .primary {
     height: 100vh;
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     align-items: center;
     
 }
@@ -35,32 +35,31 @@ body {
 }
 
 .logo {
-    margin-left: 15em;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    justify-content: space-evenly;
     align-items: center;
 }
 
 .rect {
-    background-color: var(--logo);
-    width: 30em;
-    height: 4em;
-}
-
-.rect2 {
-    margin-top: 7em;
+    margin: 2em 0em 2em 0em;
     background-color: var(--logo);
     width: 30em;
     height: 4em;
 }
 
 .secondary {
+    padding: 2em 0em 2em 0em;
     height: 100vh;
     background-color: var(--bg-secondary);
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.base {
+    max-width: 100%;
+    max-height: 100%;
 }
 
 .modules {
