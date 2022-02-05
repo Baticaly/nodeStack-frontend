@@ -65,6 +65,10 @@ body {
     max-height: 100%;
 }
 
+.base2 {
+    display: none;
+}
+
 .modules {
     background-color: var(--bg-primary);
     display: flex;
@@ -165,7 +169,7 @@ body {
 
 footer {
     padding: 3em;
-    height: 10em;
+    height: auto;
     background-color: var(--bg-footer);
     display: flex;
     justify-content: space-between;
@@ -218,5 +222,80 @@ footer {
     }
     footer {
         height: 8.5vh;
+    }
+}
+
+@media all and (max-width: 700px) {
+    .primary {
+        flex-direction: column-reverse;
+        justify-content: center;
+    }
+    .stack {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .title {
+        margin-bottom: .5em;
+        font-size: 2.5rem;
+        justify-content: center;
+    }
+    .description {
+        font-size: .7rem;
+    }
+    .logo {
+        margin-bottom: 5em;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-evenly;
+        align-items: center;
+    }
+    .rect {
+        margin: 4em 0em 0em 0em;
+        background-color: var(--logo);
+        width: 14em;
+        height: 2em;
+    }
+    .secondary {
+        padding: 5em 2em 5em 2em;
+        height: auto;
+    }
+    .row1 {
+        margin: 0em 0em 0em 0em;
+        flex-direction: column;
+    }
+    .row2 {
+        margin: 0em 0em 0em 0em;
+        flex-direction: column;
+    }
+    .base {
+        display: none;
+    }
+    .base2 {
+        display: inline;
+    }
+    .modules {
+        margin: 2em 0em 2em 0em;
+    }
+    .moduleicon {
+        max-width: 7em;
+        max-height: 7em;
+        padding-bottom: 3em;
+    }
+    .module {
+        margin: 1em 0em 1em 0em;
+        width: 10em;
+        padding: 2em 1em 0em 1em;
+    }
+    .modulename {
+        padding: 1em 1em 1em 1em;
+    }
+    footer {
+        height: auto;
+        flex-direction: column;
+    }
+    .aboutContainer {
+        margin: 1em 0em 2em 0em;
     }
 }
