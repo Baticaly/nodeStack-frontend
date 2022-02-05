@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="292.337" height="677.424" viewBox="0 0 292.337 677.424">
+<svg xmlns="http://www.w3.org/2000/svg" width="292.337" height="625.469" viewBox="0 0 292.337 625.469">
   <defs>
     <style>
       .cls-1, .cls-3 {
@@ -60,16 +60,16 @@
       }
     </style>
   </defs>
-  <g id="Second_Page" data-name="Second Page" transform="translate(-48.832 -911.489)">
+  <g id="Second_Page" data-name="Second Page" transform="translate(-48.832 -928.444)">
     <g id="Info">
-      <g id="Power" transform="translate(52.5 1493.042)">
+      <g id="Power" transform="translate(52.5 1458.042)">
         <text id="Power_SPI_Flash" data-name="Power &amp; SPI Flash" class="cls-1" transform="translate(0 26)"><tspan x="0" y="0">Power &amp; SPI Flash</tspan></text>
         <line id="Line_4" data-name="Line 4" class="cls-2" x2="266.348" transform="translate(0 38.123)"/>
         <text id="_-_Unregulated_3.3v_input_-_SPI_Flash_pins_with_autoflash_mode_-_2nd_SPI_and_UART" data-name="- Unregulated 3.3v input
 - SPI Flash pins with autoflash mode
 - 2nd SPI and UART" class="cls-3" transform="translate(0 59.871)"><tspan x="0" y="0">- Unregulated 3.3v input</tspan><tspan x="0" y="15">- SPI Flash pins with autoflash mode</tspan><tspan x="0" y="30">- 2nd SPI and UART</tspan></text>
       </g>
-      <g id="Data" transform="translate(48.832 1306.444)">
+      <g id="Data" transform="translate(48.832 928.444)">
         <text id="Data_Lines_-_Busses" data-name="Data Lines - Busses" class="cls-4" transform="translate(0 26)"><tspan x="0" y="0">Data Lines - Busses</tspan></text>
         <path id="Path_1" data-name="Path 1" class="cls-5" d="M0,0H292.336" transform="translate(0 38.331)"/>
         <text id="_-_All_GPIO_pins_-_Both_SPI_UART_interfaces_-_Both_I2C_and_I2S_interfaces_-_Both_DAC_pins" data-name="- All GPIO pins
@@ -78,7 +78,7 @@
 - Both DAC pins" class="cls-6" transform="translate(0 63.584)"><tspan x="0" y="0">- All GPIO pins</tspan><tspan x="0" y="15">- Both SPI &amp; UART interfaces</tspan><tspan x="0" y="30">- Both I2C and I2S interfaces </tspan><tspan x="0" y="45">- Both DAC pins</tspan></text>
       </g>
     </g>
-    <g id="ESP_Graph" data-name="ESP Graph">
+    <g id="ESP_Graph" data-name="ESP Graph" transform="translate(3.668 187.138)">
       <g id="ESP" transform="translate(94.073 911.489)">
         <g id="ESP-2" data-name="ESP" transform="translate(0 0)">
           <rect id="Rectangle_72" data-name="Rectangle 72" class="cls-7" width="194.517" height="295.105" rx="15.605"/>
